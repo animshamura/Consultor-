@@ -1,0 +1,30 @@
+C:\Users\great computer\source\repos\Your Cab\Your Cab\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\great computer\source\repos\Your Cab\Your Cab\bin\Debug\net6.0\appsettings.json
+C:\Users\great computer\source\repos\Your Cab\Your Cab\bin\Debug\net6.0\Your Cab.staticwebassets.runtime.json
+C:\Users\great computer\source\repos\Your Cab\Your Cab\bin\Debug\net6.0\Your Cab.exe
+C:\Users\great computer\source\repos\Your Cab\Your Cab\bin\Debug\net6.0\Your Cab.deps.json
+C:\Users\great computer\source\repos\Your Cab\Your Cab\bin\Debug\net6.0\Your Cab.runtimeconfig.json
+C:\Users\great computer\source\repos\Your Cab\Your Cab\bin\Debug\net6.0\Your Cab.dll
+C:\Users\great computer\source\repos\Your Cab\Your Cab\bin\Debug\net6.0\Your Cab.pdb
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\Your Cab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\Your Cab.AssemblyInfoInputs.cache
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\Your Cab.AssemblyInfo.cs
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\Your Cab.csproj.CoreCompileInputs.cache
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\Your Cab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\Your Cab.RazorAssemblyInfo.cache
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\Your Cab.RazorAssemblyInfo.cs
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\staticwebassets\msbuild.Your Cab.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\staticwebassets\msbuild.build.Your Cab.props
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Your Cab.props
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Your Cab.props
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\scopedcss\bundle\Your Cab.styles.css
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\scopedcss\projectbundle\Your Cab.bundle.scp.css
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\Your Cab.dll
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\refint\Your Cab.dll
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\Your Cab.pdb
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\Your Cab.genruntimeconfig.cache
+C:\Users\great computer\source\repos\Your Cab\Your Cab\obj\Debug\net6.0\ref\Your Cab.dll
